@@ -55,3 +55,8 @@ h2{
     font-size: 35px;
     font-family: 'Indie Flower', cursive;
 }
+
+img{
+    background-repeat:no-repeat;
+    width:70px;
+}
