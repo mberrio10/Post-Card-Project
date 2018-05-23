@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+#postcardContainer{
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+    margin: 200px auto;
+}
+
+.flexboxContainers{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.flexboxContainers div{
+    width: 50%;
+}
+
+#topRightContainer{
+    text-align: right;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 5px;
+    border:none;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    padding: 5px;
+    font-family: 'Courgette', cursive;
+}
+
+p{
+    margin-top: 0;
+    font-size: 21px;
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+#bottomContainer{
+    text-align: center;
+}
+
+button{
+    border:none;
+    background-color: gray;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    font-family: "Open Sans", sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Indie Flower', cursive;
+}
